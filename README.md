@@ -71,23 +71,4 @@ This solution empowers stakeholders to:
 
 By leveraging this dashboard, businesses can **turn data into actionable insights** that drive performance and profitability.
 
----
 
-## Visuals
-Include screenshots of your dashboard in the `Images/` folder:
-
-1. **Sales Analysis**  
-![Sales Analysis](Images/Sales_Analysis.png)
-
-2. **Revenue Analysis**  
-![Revenue Analysis](Images/Revenue_Analysis.png)
-
-3. **Customer Analysis**  
-![Customer Analysis](Images/Customer_Analysis.png)
-
-4. **Insights Summary**  
-![Insights](Images/Insights.png)
-
----
-
-⭐ *If you find this project useful, consider giving it a star on GitHub!*  
